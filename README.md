@@ -1,6 +1,6 @@
 # Eat your celery, son!
-# celery + redis task queue demo
 
+celery + redis task queue demo
 
 在架构上：
 
